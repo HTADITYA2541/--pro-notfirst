@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm ADITYA KUMAR CHAUBEY! 👋</h1>
 
 <p align="center">
-   width="150" alt="Your Avatar">
 </p>
 
 <p align="center">
