@@ -10,7 +10,7 @@
 ---
 
 ### 🔥 **CODER**  
-- 🎯 I'm working on **Searching..**  
+- 🎯 I'm here for **Searching..**  
 - 🏆 Interested in **Web Development | AI | Open Source**  
 - 🌎 I love **collaborating & sharing knowledge**  
 - 📫 Reach me at **adityadark14@gmail.com**  
