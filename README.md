@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Your Name! 👋</h1>
+<h1 align="center">Hi, I'm ADITYA KUMAR CHAUBEY! 👋</h1>
 
 <p align="center">
-  <img src="https://your-image-url.com/avatar.png" width="150" alt="Your Avatar">
+   width="150" alt="Your Avatar">
 </p>
 
 <p align="center">
@@ -10,11 +10,11 @@
 
 ---
 
-### 🔥 **About Me**  
-- 🎯 I'm working on **Your Current Project**  
+### 🔥 **CODER**  
+- 🎯 I'm working on **Searching..**  
 - 🏆 Interested in **Web Development | AI | Open Source**  
 - 🌎 I love **collaborating & sharing knowledge**  
-- 📫 Reach me at **your.email@example.com**  
+- 📫 Reach me at **adityadark14@gmail.com**  
 
 ---
 
@@ -38,10 +38,7 @@
 
 ---
 
-### 🌍 **Find Me Online**  
-🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-💼 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-📷 **Instagram:** [@yourinsta](https://instagram.com/yourinsta)  
-
----
+### 🌍 **Find Me Online**   
+🐦 **Twitter:** [@yourhandle](https://x.com/adiii__149)
+💼 **LinkedIn:** [@yourlinkedin](https://www.linkedin.com/in/aditya-kumar-chaubey-43352932b/) 
+📷 **Instagram:** [@yourinsta](https://www.instagram.com/adiii_149/)  
